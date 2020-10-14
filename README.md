@@ -43,3 +43,4 @@ pc调用show()方法来输出各属性的值。
 		         }
              
 ## 实验结果：
+![实验结果](https://github.com/2018310768/java-/blob/main/实验结果.PNG)
